@@ -1,6 +1,5 @@
 import React from "react";
-import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
-import Image from "next/image";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Menu = [
   {

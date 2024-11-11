@@ -1,7 +1,6 @@
 
 import Image from 'next/image';
 import React from 'react';
-import NavbarItem from './NavbarItems';
 import OrderButton from '../Buttons/OrderButton';
 import { FaCoffee } from 'react-icons/fa';
 import Link from 'next/link';

@@ -7,7 +7,6 @@ import Services from '@/src/app/Services/page';
 import Banner from '@/src/components/Banner/Banner';
 import PlayStore from '@/src/components/PlayStore/PlayStore';
 import Testimonials from '@/src/app/testimonials/page';
-import Image from 'next/image';
 import Contact from './contact/page';
 
 

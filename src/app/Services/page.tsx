@@ -1,6 +1,5 @@
 import React from 'react'
 import ServiceItem from '../../components/ServiceItem';
-import Image from 'next/image';
 
 
 const ServiceData=[

@@ -1,6 +1,5 @@
-import Image from 'next/image'
 import React from 'react'
-import pic from '@/public/images/beans1.jpg'
+import Image from 'next/image';
 
 function PlayStore() {
   return (
